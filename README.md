@@ -6,9 +6,9 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org) eğitimi kapsamında oluşturduğum
 
 ## Installation
 Öncelikle projeyi clonelayın.
-'''pyhton
+```python
 git clone https://github.com/emirozer07/kodluyoruzilkrepo.git
-'''
+```
 --------
 
 ## Usage
@@ -16,10 +16,10 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
-'''
+```
 cd kodluyoruzilkrepo
 code .
-'''
+```
 ----------------
 ## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
